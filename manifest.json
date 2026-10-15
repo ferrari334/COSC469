@@ -7,6 +7,9 @@
     "activeTab",
     "scripting"
   ],
+  "host_permissions": [
+    "https://api.deepinfra.com/*"
+  ],
   "action": {
     "default_popup": "extension.html",
     "default_icon": "hello_extensions.png"

@@ -1,3 +1,5 @@
+import { analyzePolicy } from "./deepseek.js";
+
 document.addEventListener('DOMContentLoaded', function () {
     const yesButton = document.querySelector('.yesButton');
 
@@ -26,15 +28,20 @@ async function getPageText() {
     const textArea = document.querySelector('.myTextArea');
     const pageText = results[0].result;
 
-    parsePageText(pageText);
+    const prompt = parsePageText(pageText);
 
-    textArea.value = pageText;
+    // Send the text to the LLM and show its analysis in the text area
+    textArea.value = "Analyzing policy...";
+    try {
+        textArea.value = await analyzePolicy(prompt);
+    } catch (error) {
+        textArea.value = `Error: ${error.message}`;
+    }
 
 }
 
 
 
-export let prompt;// Export the processed text for use in deepseek.js 
 function parsePageText(pageText) {
     // Handle RAG (Retrieval-Augmented Generation) here and any other processing
     // Send the rest to the api for llm analysis
@@ -44,5 +51,5 @@ function parsePageText(pageText) {
 
     // Take this further and process it as needed 
     const processedText = pageText.replace(/\s+/g, ' ').trim(); // Example processing: remove extra whitespace
-    prompt = processedText; 
+    return processedText;
 }
