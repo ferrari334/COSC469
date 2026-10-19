@@ -13,19 +13,38 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 async function getPageText() {
+    const textArea = document.querySelector('.myTextArea');
+    textArea.style.visibility = "visible";
+
+
     // Get the active tab the user is on
     const [tabs] = await chrome.tabs.query({ active: true, currentWindow: true });
 
 
-    const results = await chrome.scripting.executeScript({
-        target: { tabId: tabs.id },
-        function: () => {
-            return document.body.textContent;
-        }
-    }); 
+         
+
+    let results;
+
+    try {
+        results = await chrome.scripting.executeScript({
+            target: { tabId: tabs.id },
+            function: () => {
+                return document.body.textContent;
+            }
+        }); 
+    } catch (error) {
+        textArea.value = error;
+        return;
+    }
 
 
-    const textArea = document.querySelector('.myTextArea');
+
+    
+
+
+
+
+
     const pageText = results[0].result;
 
     const prompt = parsePageText(pageText);
