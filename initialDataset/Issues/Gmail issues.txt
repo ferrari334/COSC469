@@ -1,0 +1,7 @@
+"Our automated systems analyze your content (including emails) 
+to provide you personally relevant product features, such as 
+customized search results, tailored advertising, and spam and 
+malware detection. This analysis occurs as the content is sent, 
+received, and when it is stored."
+
+All your content accessed or sent through gmail is analyzed to personalize advertisements to you.

@@ -1,0 +1,2 @@
+Personal data may be used to develop and train AI
+The privacy statement does not fully explain when GitHub personnel or systems can access private repository contents.

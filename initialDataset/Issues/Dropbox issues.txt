@@ -1,0 +1,14 @@
+"Employees may access file metadata (e.g., file names and locations) 
+when they have a legitimate reason, like providing technical support. 
+Like most online services, we have a small number of employees who 
+must be able to access user data for the reasons stated in our 
+privacy policy (e.g., when legally required to do so)."
+
+and
+
+"These and other features may require our systems to access, 
+store and scan Your Stuff. You give us permission to do those things, 
+and this permission extends to trusted third parties we work with."
+
+Dropbox and third parties associated with them are effectively granted access to store and scan 
+anything you upload.
