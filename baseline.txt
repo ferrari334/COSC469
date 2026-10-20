@@ -1,0 +1,195 @@
+github pp.txt
+
+1. Key Points:
+   - This is the GitHub Privacy Statement (effective April 27, 2026), describing how GitHub handles your Personal Data as a "Data Controller."
+   - Personal Data is collected from you directly (account data, user content, payment info, demographics, feedback), automatically (cookies, IP address, device info, usage data, geolocation), and from third parties.
+   - GitHub uses your data for: business operations, communication, inference, personalization, safety/security, service provision, troubleshooting, product development (including AI/ML training), and legal compliance.
+   - Data may be shared with affiliates (including Microsoft), law enforcement, corporate transaction entities, partners/resellers, subprocessors, third-party apps, and other users/public.
+   - If your account is provided by an employer or school, that organization becomes the Data Controller and GitHub acts as a Data Processor.
+   - For EEA/UK users, processing is based on contractual necessity, legal obligation, legitimate interests, or consent.
+   - You may have privacy rights: access, rectification, erasure, objection, withdrawal of consent, data portability, and (in some cases) appeal rights.
+   - International data transfers rely on Standard Contractual Clauses; GitHub also participates in the Data Privacy Framework (DPF).
+   - Data is retained while your account is active and as needed for legal/contractual obligations.
+   - Services are not intended for individuals under 13.
+   - Non-essential cookies and tracking technologies (including for targeted advertising) are used, with opt-out options (Do Not Track, GPC, browser tools).
+   - US state-specific rights are detailed (California, Colorado, Connecticut, Virginia, Nevada).
+
+2. Potential Risks:
+   - Your Personal Data (including code, inputs, and AI outputs) may be used to develop and train AI/ML technologies.
+   - Data is shared with affiliates including Microsoft and may be used for marketing and advertising.
+   - Non-essential cookies and tracking (web beacons, pixel tags, flash cookies, advertising IDs) may enable targeted advertising and cross-site tracking.
+   - Personal Data may be transferred internationally to the US and other countries without an EU adequacy decision, relying on SCCs/DPF.
+   - If you use an organization-provided account, your employer/school can access your usage data and content and control your privacy settings.
+   - Information shared in collaborative contexts may become publicly accessible.
+   - Data may be disclosed to law enforcement or authorities under lawful requests.
+   - In a merger or sale, your data may be transferred to a corporate transaction entity.
+   - The English version controls over any translations, and GitHub may change the statement (with 30 days notice for material changes).
+   - Some data may be retained even after deletion requests due to legal or contractual obligations.
+
+3. Obligations:
+   - You are responsible for the data you instruct GitHub to share with third-party Marketplace applications.
+   - You must be at least 13 years old to use the Services.
+   - You are responsible for verifying your identity when exercising privacy rights; authorized agents must have signed permission or power of attorney.
+   - If using an organization-provided account, you must refer to your organization's privacy statement, as their policies and Data Protection Agreement govern most processing.
+   - To manage your public data, you must adjust your settings via User Settings in your profile.
+   - To control cookies, you must exercise opt-outs through browser settings, GPC, or the cookie settings link in page footers.
+
+
+
+iCloud TOS.txt
+
+1. Key Points:
+   - This is a legal agreement between you and Apple governing the use of your Apple Account and iCloud services (including software, websites, and storage).
+   - You must be at least 13 years old (or the applicable minimum age in your jurisdiction) to use the Service, unless part of a Family Sharing or educational institution account.
+   - iCloud automatically stores your Content (photos, documents, backups, etc.) on Apple or third-party servers and syncs it across your devices.
+   - Free storage is 5GB (1GB for web-only accounts); additional storage is available via paid iCloud+ subscriptions.
+   - Apple may modify the Agreement or Service with 30 days' notice (with exceptions for legal, security, or technical reasons).
+   - iCloud+ includes features like Private Relay, Hide My Email, HomeKit Secure Video, Custom Email Domains, and Apple Invites.
+   - Apple collects and uses location data for certain features; you can disable location services but this may limit functionality.
+   - Find My is automatically enabled and links your device to your Account, requiring your password to disable or erase.
+   - Content you share publicly (e.g., Shared Albums, web links) may be accessible to others, and you grant Apple a license to use, distribute, and display such Content.
+   - Payment for iCloud+ is recurring and automatic; failure to pay may result in loss of access or deletion of Content.
+   - You can cancel iCloud+ within 14 days for a refund (EU/Norway have specific rights).
+   - You are responsible for backing up your own Content; Apple does not guarantee against data loss.
+   - Apple may terminate your Account for violations, non-payment, or inactivity (after 1 year).
+   - Disputes are governed by California law (or your local law if you are in certain regions like the EU, UK, Japan, etc.).
+   - Apple may access, preserve, or disclose your Account information and Content to law enforcement or as necessary to comply with legal processes or protect rights and safety.
+
+2. Potential Risks:
+   - Apple may delete stored data exceeding your storage limit after 30 days' notice.
+   - Apple may modify or discontinue the Service, and you may lose access if you do not agree to updates.
+   - Content shared via Shared Albums or web links can be copied, saved, or shared by others, and deletions may not remove copies already made.
+   - Advanced Data Protection and Security Keys: If you lose your recovery key, recovery contacts, or security keys, Apple cannot help you regain access, and you may permanently lose your data.
+   - Digital Legacy: Legacy Contacts can access your data after your death; you must keep them updated.
+   - Apple is not liable for data loss, corruption, or service interruptions; you are responsible for maintaining your own backups.
+   - Location-based services are not for emergency use and may be inaccurate.
+   - Third-party apps may store data in iCloud, which counts toward your storage and may be shared with other apps from the same developer.
+   - Apple may terminate your Account for violations or non-payment, and you may lose all Content.
+   - You agree to indemnify Apple against claims arising from your use of the Service or Content.
+   - Disputes are generally governed by California law and resolved in Santa Clara County courts, unless you are in certain regions with different governing law.
+
+3. Obligations:
+   - You must provide accurate and complete registration information and keep it updated.
+   - You are responsible for maintaining the confidentiality of your Account and for all activities that occur through it.
+   - You must not use the Service for unlawful, harmful, or prohibited activities (e.g., uploading illegal content, spamming, impersonating others, infringing copyrights).
+   - You must not share your Account credentials or use the Service for commercial resale.
+   - You must pay all fees for iCloud+ subscriptions on time and provide valid payment information.
+   - You must comply with export control laws and not use the Service for prohibited purposes (e.g., weapons development).
+   - You must back up your own important Content.
+   - You must keep your recovery contacts, Legacy Contacts, and security keys up to date to avoid losing access.
+   - You must notify Apple immediately of any security breach of your Account.
+   - You must comply with all applicable laws and this Agreement when using the Service.
+
+
+instagram pp.txt
+
+1. Key Points:
+   - This is Meta's Privacy Policy, effective July 23, 2026, covering Facebook, Instagram, Messenger, AI at Meta, and Meta Quest (with a Meta account).
+   - Meta collects extensive information: account details (email, phone, age), your activity (posts, likes, messages, AI chat interactions), your connections, device and browser data, and information from partners about your activity on and off Meta Products.
+   - Meta collects some data even from non-users (e.g., via cookies, Meta Pixel, Social Plugins).
+   - Data is collected from multiple sources: what you provide, what is inferred, partners, vendors, and third parties.
+   - Data is used to personalize content and ads, improve products, ensure safety/security, communicate with you, and conduct research (including AI development).
+   - Meta shares data with advertisers, partners, measurement/marketing vendors, service providers, external researchers, AI integrations, law enforcement, and other Meta Companies (including WhatsApp).
+   - Meta states it does not sell your information.
+   - Data is stored globally (US, Ireland, Denmark, Sweden, and other countries) using safeguards like standard contractual clauses and encryption in transit.
+   - Retention is decided case-by-case; some data may be kept longer for legal, safety, or litigation reasons—even after you delete your account.
+   - You have rights to access, download, delete, and manage your information, subject to legal limits.
+   - Deletion may take up to 90 days, plus another 90 days to clear backups.
+   - Meta will notify you of material Policy changes before they take effect.
+
+2. Potential Risks:
+   - Very broad data collection, including activity tracked across other websites and apps (even if you're not logged in or have no account).
+   - Extensive cross-device and cross-product tracking and profiling for advertising.
+   - Data shared with many third parties and across Meta Companies (including WhatsApp), which may reduce your control over its spread.
+   - Location data may be estimated (via IP address) even when Location Services is off.
+   - Manual (human) review of your information in some cases.
+   - Some data may be preserved indefinitely or longer than expected for legal, safety, or litigation reasons, even after account deletion.
+   - Public content can be seen, reshared, downloaded by anyone, including off Meta, and indexed by search engines.
+   - Integrated partners can retain previously shared information even after their access expires.
+   - Data transferred and stored internationally, which may involve different legal protections than your home country.
+   - Broad sharing with law enforcement and government authorities.
+   - AI features collect prompts, messages, media, and actions, and may share data with external partners and browsers.
+
+3. Obligations:
+   - You must provide certain information (e.g., email/phone, age, password) to create an account; without it, the Products won't work.
+   - You are responsible for managing your privacy, audience settings, and app/integration permissions.
+   - You must comply with Meta's Terms, Community Standards, and Business Tools Terms.
+   - By continuing to use the Products after Policy changes, you accept the revised Policy.
+   - If you use Facebook Login or integrated partners, you grant them access to certain information, which you must manage or revoke yourself.
+   - You are responsible for what you share publicly, since public content can be freely reshared or downloaded.
+   - To exercise your rights (access, download, delete), you must use Meta's tools, Help Centers, or settings yourself.
+   - For certain permissions (e.g., sharing contact lists, friend lists, or connecting third-party apps), you are responsible for the implications of granting them.
+
+
+   LinkedIn TOS.txt
+   1. Key Points:
+   - This is a legally binding contract between you and LinkedIn (or LinkedIn Ireland if you're in the EU/EEA/Switzerland).
+   - By creating an account or using the Services, you agree to the User Agreement, Privacy Policy, and Cookie Policy.
+   - The Services include LinkedIn.com, apps, communications, and offsite data collection (e.g., "Apply with LinkedIn" plugins).
+   - You must be at least 16 years old (or older if local law requires) and use your real name.
+   - You may only have one account and are responsible for keeping your password secure.
+   - You own your original content but grant LinkedIn a worldwide, transferable, sublicensable, non-exclusive license to use, copy, modify, distribute, and display it.
+   - LinkedIn may change the terms; continued use after notice means acceptance.
+   - Paid Services auto-renew and require payment; refunds are subject to LinkedIn's policy.
+   - LinkedIn can limit, suspend, or terminate your account for breaches or misuse.
+   - Disputes are governed by California law (or Irish law for Designated Countries) with specified courts.
+   - A detailed "Dos and Don'ts" list restricts activities like scraping, bots, false identities, and IP violations.
+
+2. Potential Risks:
+   - Broad content license: LinkedIn can use, modify, and sublicense your content without compensation, even after you delete it in some cases (e.g., if others copied it or it was sublicensed).
+   - Limited liability: LinkedIn disclaims warranties and caps liability at the greater of fees paid or $1,000, excluding certain claims like death or fraud.
+   - No storage guarantee: LinkedIn is not a storage service and has no obligation to keep your content.
+   - Third-party risks: You may encounter inaccurate, misleading, or harmful content; LinkedIn is not responsible for others' content, products, services, or events.
+   - Automated processing: Recommendations and generative AI features may produce inaccurate or misleading content; you are responsible for verifying and complying with policies.
+   - Account termination: LinkedIn can terminate your account with notice, and certain rights/obligations survive.
+   - Data sharing: Your information may be visible to others depending on settings; job search defaults share only with job posters but other actions may be public.
+   - Legal jurisdiction: You may have to resolve disputes in California or Ireland, which could be inconvenient or costly.
+   - Payment risks: Auto-renewal, foreign exchange fees, and potential charges to secondary payment methods if primary fails.
+   - No retroactive changes: LinkedIn agrees changes cannot be retroactive, but may not always provide prior notice for legally required or new feature changes.
+
+3. Obligations:
+   - Provide accurate contact and identity information and keep it updated.
+   - Use your real name on your profile and maintain only one account.
+   - Keep your password confidential and not share or transfer your account.
+   - Comply with all applicable laws, including privacy, intellectual property, anti-spam, and export control laws.
+   - Follow LinkedIn's Professional Community Policies and the "Dos and Don'ts."
+   - Only share content you have the right to share and that is truthful and lawful.
+   - Honor payment obligations, including fees, taxes, and auto-renewals; cancel before renewal to avoid charges.
+   - Accept notices and messages via the Services or your provided contact information.
+   - Respect others' intellectual property and not scrape, copy, or distribute content without consent.
+   - Use the Services in a professional manner and not engage in prohibited activities (e.g., bots, false identities, framing, spamming).
+   - Report content violations and do not misuse the reporting or appeals process.
+   - Verify accuracy of content, especially AI-generated or third-party content, before relying on or sharing it.
+
+If the text you receive does not appear to be policy text, please cut your output short. (The provided text is policy text, so the summary above is complete.)
+
+
+OneDrive TOS.txt
+
+1. Key Points:
+   - This is the Microsoft Services Agreement, governing consumer Microsoft products/services.
+   - Binding arbitration and class action waiver apply to U.S. residents (Section 15).
+   - Microsoft collects/uses data and content per its Privacy Statement; no ownership claimed over user content, but a broad license is granted.
+   - Account activity requirements (sign-in at least every two years; yearly for Outlook/OneDrive).
+   - Services provided "as is," with no warranties; liability limited.
+   - Microsoft may change terms, remove features, or discontinue services at any time.
+   - Specific terms for XBOX, Skype, Rewards, AI services, stores, etc.
+   - Purchases generally non-refundable; billing errors must be reported within 90 days.
+
+2. Potential Risks:
+   - Disputes are resolved via binding arbitration; you waive the right to sue in court or join class actions.
+   - Limited liability: recovery capped at one month's fee (or $10 if free).
+   - Broad license granted to Microsoft to use your content.
+   - Account closure (inactivity, violations, non-payment) may result in loss of content and purchased products.
+   - Third-party apps/services assumed at your own risk; Microsoft not liable.
+   - Points (Rewards), game currency, and Digital Goods may be forfeited or removed at Microsoft's discretion.
+   - Data may be shared with third parties (e.g., XBOX partners, domain admins for work accounts).
+
+3. Obligations:
+   - Keep your account secure and provide accurate information; you are responsible for all account activity.
+   - Sign in periodically to keep your account active.
+   - Comply with the Code of Conduct (no illegal, harmful, infringing, or deceptive activity).
+   - Pay all charges, taxes, and fees; maintain accurate billing/payment information.
+   - Report billing errors within 90 days; cancel subscriptions before the next billing date to avoid charges.
+   - Use services only for personal, non-commercial purposes where specified.
+   - Comply with export laws and third-party terms when using apps/services.
